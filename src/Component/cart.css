@@ -1,0 +1,12 @@
+.coontainer-shooping{
+
+
+    text-align:justify;
+    display: flex    
+}
+.container1{
+    border: 0.3rem solid rgb(69, 68, 68);
+    border-style: transparent;
+    margin: 2rem;
+    
+}
