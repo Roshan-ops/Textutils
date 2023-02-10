@@ -4,7 +4,7 @@ import {Button,Container,Form,Nav,Navbar} from 'react-bootstrap';
 
 const Navbar1= ()=>{
   return (
-    <Navbar bg="dark" expand="lg">
+    <Navbar bg="light" expand="lg">
       <Container fluid>
         <Navbar.Brand for="/">TextUtilize</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
@@ -20,7 +20,6 @@ const Navbar1= ()=>{
         </Navbar.Collapse>
       </Container>
     </Navbar>
-
   );
 }
 
